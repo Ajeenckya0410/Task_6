@@ -7,7 +7,7 @@ function App() {
       <nav className="navbar navbar-expand-md navbar-scrolled fixed-top bg-body-tertiary bg-dark navbar-dark">
         <div className="container">
           <a className="navbar-brand" href="#">
-            <h3>Piyush Pankaj</h3>
+            <h3>Ajeenckya Kaabra</h3>
           </a>
           <button
             className="navbar-toggler"
@@ -36,7 +36,7 @@ function App() {
               </a>
               <a
                 className="nav-link active"
-                href="https://www.linkedin.com/posts/piyush-pankaj-10a45b234_goalresumepiyushpankaj-activity-7081229023405613056-Sq5j?utm_source=share&utm_medium=member_desktop"
+                href="https://drive.google.com/file/d/1im9PvI5Mfb_kyV_IKo-x99yAUtZW-lmv/view?usp=sharing"
               >
                 Resume
               </a>
@@ -56,10 +56,10 @@ function App() {
             <h1 class="display-1 fw-bold">
               Hello there! I am
               <br />
-              <span class="text-brand">Piyush Pankaj.</span>
+              <span class="text-brand">Ajeenckya Kaabra.</span>
             </h1>
             <h4 class="mt-3 mb-5">
-              ML enthusiast and backend developer from Bihar, India.
+              ML enthusiast and backend developer from Maharashtra, India.
             </h4>
             <a href="contact" class="btn btn-brand">
               Get Connected
@@ -88,11 +88,11 @@ function App() {
               <div class="service p-4 bg-base rounded-6 shadow-effect">
                 <p>
                   I am an CSE student.
-                  I am Piyush Pankaj 3rd year btech student of VIT, Bhopal. I am
+                  I am Ajeenckya Kaabra 3rd year btech student of VIT, Bhopal. I am
                   a geek and curious human besides being an OpenSource
-                  enthusiast. I did my Intermediate from Ambe School,
-                  Vadodara, Guajarat. I am a keen learner. 
-                  I have participated in coding coemption(SIH). I’m a hardworking
+                  enthusiast. I did my Intermediate from Orion School,
+                  Jalgaon, Maharashtra. I am a keen learner. 
+                  I have participated in maths olympiad. I’m a hardworking
                   and optimistic person. I'm very curious and I love learning
                   new things. I'm good at team work and believe in healthy
                   competition
@@ -221,7 +221,7 @@ function App() {
               <p class="mb-0">
                 Designed by{" "}
                 <a href="#" class="footer">
-                  Piyush
+                  Ajeenckya
                 </a>
               </p>
             </div>
